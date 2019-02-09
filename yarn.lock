@@ -4498,10 +4498,10 @@ gatsby-source-filesystem@^2.0.20:
     valid-url "^1.0.9"
     xstate "^3.1.0"
 
-gatsby-theme-simple-docs@^0.0.2:
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-simple-docs/-/gatsby-theme-simple-docs-0.0.2.tgz#2ee154ed16d03fee4b9a686a0ddb37cb8cb52e53"
-  integrity sha512-vT8R3w7eRgODrXEgrw7ZCAH8werzzufsbY7YGzQMk08JWmVqavU/Cgnlx9u6UkAfceDSeNN5bDg7CE7cq4ixkw==
+gatsby-theme-simple-docs@^0.0.3:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-simple-docs/-/gatsby-theme-simple-docs-0.0.3.tgz#a169975232a0f1d1164549a013778558d9f3a480"
+  integrity sha512-CxHa1sDXe7ajbm/bGfgR8BCWR4RXJPepocy80G1tfvj/YoRjB+YsmZYxQcmosw13enYJe1/hKGewVAC2xFvISw==
   dependencies:
     "@emotion/core" "^10.0.7"
     "@emotion/styled" "^10.0.7"
